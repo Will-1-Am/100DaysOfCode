@@ -41,4 +41,13 @@ Working on the Flash Chat project @LondonAppBrewer which uses @Firebase - anothe
 
 Flash Chat project completed @LondonAppBrewer.  Looking forward to lecture 201! #100DaysOfCode
 
-### R1Day7
+### R1Day7 Thursday, 18 October 2018
+What better way to start R1 Day 7 than to register for Hacktoberfest 2018?! https://medium.freecodecamp.org/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b  #100DaysOfCode @github @digitalocean #freeCodeCamp
+
+https://codeweek.eu/
+
+The issue with the Flash Chat project and the ChameleonFramework could be related to an installation corruption issue as a fellow student pointed out that a color reference has been renamed in the latest version of ChameleonFramework.  Will look at reinstalling the pod.
+
+Now "Enumeration value 'kCGColorSpaceModelXYZ' not handled in switch" but this is not affecting the Flash Chat App for now.
+
+### R1Day8
