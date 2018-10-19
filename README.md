@@ -53,4 +53,6 @@ Now "Enumeration value 'kCGColorSpaceModelXYZ' not handled in switch" but this i
 ### R1Day8 Friday, 19 October 2018
 Day 8 begins with getting more familiar with git.  The @LondonAppBrewer y's "Git, GitHub and Version Control" module is presented really well.  Check it out if you're into that sort of thing. #100DaysOfCode #freeCodeCamp
 
+Git has got a new fan!  Browser, CLI and Xcode gitting is awesome.  Thank you @yu_angela & #LondonAppBrewer.  #100DaysOfCode
+
 ### R1Day9
