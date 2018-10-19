@@ -50,4 +50,7 @@ The issue with the Flash Chat project and the ChameleonFramework could be relate
 
 Now "Enumeration value 'kCGColorSpaceModelXYZ' not handled in switch" but this is not affecting the Flash Chat App for now.
 
-### R1Day8
+### R1Day8 Friday, 19 October 2018
+Day 8 begins with getting more familiar with git.  The @LondonAppBrewer y's "Git, GitHub and Version Control" module is presented really well.  Check it out if you're into that sort of thing. #100DaysOfCode #freeCodeCamp
+
+### R1Day9
