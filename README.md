@@ -58,4 +58,7 @@ Git has got a new fan!  Browser, CLI and Xcode gitting is awesome.  Thank you @y
 ### R1Day009 Saturday, 20 October 2018
 Just in case you thought I was slackin', it is R1 Day 9 and I have been at it, hopefully fulfilling some of my  #Hacktoberfest2018 obligations by submitting my first ever real PR by doing some writing for MailHog https://github.com/mailhog/MailHog !  #freeCodeCamp #100DaysOfCode  
 
-### R1Day010
+### R1Day010 Sunday, 21 October 2018
+R1 Day 10 Spent part of the day trying to implement the front camera in an iOS app.  #100DaysOfCode
+
+### R1Day011
