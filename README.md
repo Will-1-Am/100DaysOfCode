@@ -61,4 +61,15 @@ Just in case you thought I was slackin', it is R1 Day 9 and I have been at it, h
 ### R1Day010 Sunday, 21 October 2018
 R1 Day 10 Spent part of the day trying to implement the front camera in an iOS app.  #100DaysOfCode
 
-### R1Day011
+One of the first issues with my new camera app was reported with the followng message.
+"uncaught exception 'NSUnknownKeyException', reason: '[<xxxxx.ViewController 0x13bd0ba60> setValue:forUndefinedKey:]: this class is not key value coding-compliant for the key cameraOut.'"
+Resolved by updating  the name of the imageView in Connections inspector.  
+
+The following error in my camera app needs to be looked.
+"Reading from public effective user settings."  - I suspect this is something to due with getting permission to use the camera.
+
+### R1Day011 Monday, 22 October 2018
+R1 Day 11 Another day of golden opportunity begins with finding a resolution for the error in my new Swift app - "Reading from public effective user settings." #100DaysOfCode #LondonAppBrewer
+
+
+### R1Day012
