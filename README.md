@@ -71,7 +71,8 @@ The following error in my camera app needs to be looked.
 ### R1Day011 Monday, 22 October 2018
 R1 Day 11 Another day of golden opportunity begins with finding a resolution for the error in my new Swift app - "Reading from public effective user settings." #100DaysOfCode #LondonAppBrewer
 
+First camera app now working! Thank you @brianadventcode for your awesome tutorials - and some tweeking... @LondonAppBrewer #100DaysOfCode
 
-
+Learned that it can help to specify the data type of a constant when it is an optional in Swift.
 
 ### R1Day012
