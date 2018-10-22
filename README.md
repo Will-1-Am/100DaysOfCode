@@ -72,4 +72,6 @@ The following error in my camera app needs to be looked.
 R1 Day 11 Another day of golden opportunity begins with finding a resolution for the error in my new Swift app - "Reading from public effective user settings." #100DaysOfCode #LondonAppBrewer
 
 
+
+
 ### R1Day012
