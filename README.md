@@ -75,4 +75,6 @@ First camera app now working! Thank you @brianadventcode for your awesome tutori
 
 Learned that it can help to specify the data type of a constant when it is an optional in Swift.
 
+Finished Day 11 with a shabang and a rewrite of an article about Bash in support of #Hacktoberfest2018 #100DaysOfCode  Roll on day 12.
+
 ### R1Day012
