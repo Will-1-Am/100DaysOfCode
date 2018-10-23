@@ -77,4 +77,20 @@ Learned that it can help to specify the data type of a constant when it is an op
 
 Finished Day 11 with a shabang and a rewrite of an article about Bash in support of #Hacktoberfest2018 #100DaysOfCode  Roll on day 12.
 
-### R1Day012
+### R1Day012 Monday, 23 October 2018
+Time to make a start on my third #freeCodeCamp project on this the 12th day of 
+#100DaysOfCode R1.
+
+Flavio Copes has a great blog and I found this piece on HTTP Status Codes https://flaviocopes.com/http-status-codes/
+
+Had a look at Brian Advent's website https://www.brianadvent.com/ which looks very interesting for iOS development.
+
+Found a piece on #pragma mark on stackoverflow.com https://stackoverflow.com/questions/35963128/swift-understanding-mark
+
+"The // MARK: and // MARK: - syntax in Swift functions identically to the #pragma mark and #pragma mark - syntax in Objective-C.
+
+When using this syntax (plus // TODO: and // FIXME:), you can get some extra information to show up in the quick jump bar."
+
+
+
+### R1Day013
