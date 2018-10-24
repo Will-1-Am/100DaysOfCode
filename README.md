@@ -28,7 +28,7 @@ A great little article "All about floats" https://css-tricks.com/all-about-float
 
 Submitted Survey Form project #freeCodeCamp https://codepen.io/will-1-am-the-Iceman/full/ePZVKE … #100DaysofCode
 
-Finished R1Day5 with a bit of Swift coding an animation and tap gestures with @LondonAppBrewer #100DaysOfCode 
+Finished R1Day5 with a bit of Swift coding an animation and tap gestures with @LondonAppBrewer #100DaysOfCode
 
 Need to review how to construct Swift Closures.
 
@@ -78,7 +78,7 @@ Learned that it can help to specify the data type of a constant when it is an op
 Finished Day 11 with a shabang and a rewrite of an article about Bash in support of #Hacktoberfest2018 #100DaysOfCode  Roll on day 12.
 
 ### R1Day012 Monday, 23 October 2018
-Time to make a start on my third #freeCodeCamp project on this the 12th day of 
+Time to make a start on my third #freeCodeCamp project on this the 12th day of
 #100DaysOfCode R1.
 
 Flavio Copes has a great blog and I found this piece on HTTP Status Codes https://flaviocopes.com/http-status-codes/
@@ -95,4 +95,12 @@ Wrote two entries for the git knowledgebase in the #freeCodeCamp.  git config an
 
 How to update a git hub fork - Great step-by-step article https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
 
-### R1Day013
+### R1Day013 Tuesday, 24 October 2018
+The barebones of the third #freeCodeCamp project is now on code pen on day 13 R1 of
+#100DaysOfCode.  Looking forward to fleshing out this Product Landing Page. https://codepen.io/will-1-am-the-Iceman/full/BqqMqy
+
+Completed Chapter 2 of Learn Enough Command Line to be Dangerous - more a review but it is always nice to refresh. https://www.learnenough.com/command-line-tutorial#aside-technical_sophistication
+
+Started ToDoList App with #LondonAppBrewer #100100DaysOfCode
+
+### R1Day014
