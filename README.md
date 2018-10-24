@@ -91,6 +91,8 @@ Found a piece on #pragma mark on stackoverflow.com https://stackoverflow.com/que
 
 When using this syntax (plus // TODO: and // FIXME:), you can get some extra information to show up in the quick jump bar."
 
+Wrote two entries for the git knowledgebase in the #freeCodeCamp.  git config and git rm commands are no in full effect.  #Hacktoberfest2018
 
+How to update a git hub fork - Great step-by-step article https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
 
 ### R1Day013
