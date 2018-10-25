@@ -77,7 +77,7 @@ Learned that it can help to specify the data type of a constant when it is an op
 
 Finished Day 11 with a shabang and a rewrite of an article about Bash in support of #Hacktoberfest2018 #100DaysOfCode  Roll on day 12.
 
-### R1Day012 Monday, 23 October 2018
+### R1Day012 Tuesday, 23 October 2018
 Time to make a start on my third #freeCodeCamp project on this the 12th day of
 #100DaysOfCode R1.
 
@@ -95,12 +95,22 @@ Wrote two entries for the git knowledgebase in the #freeCodeCamp.  git config an
 
 How to update a git hub fork - Great step-by-step article https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
 
-### R1Day013 Tuesday, 24 October 2018
+### R1Day013 Wednesday, 24 October 2018
 The barebones of the third #freeCodeCamp project is now on code pen on day 13 R1 of
 #100DaysOfCode.  Looking forward to fleshing out this Product Landing Page. https://codepen.io/will-1-am-the-Iceman/full/BqqMqy
 
 Completed Chapter 2 of Learn Enough Command Line to be Dangerous - more a review but it is always nice to refresh. https://www.learnenough.com/command-line-tutorial#aside-technical_sophistication
 
-Started ToDoList App with #LondonAppBrewer #100100DaysOfCode
+Started ToDoList App with #LondonAppBrewer #100DaysOfCode
 
-### R1Day014
+### R1Day014 Thursday, 25 October 2018
+#100DaysofCode rocks on day 14 R1 with swift coding and @LondonAppBrewer.
+
+Idea to add wind direction to the clima app.
+
+Why "override func"? Overriding declaration requires an 'override' keyword.  - Answer: https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html#//apple_ref/doc/uid/TP40014097-CH17-ID196
+
+ToDoey App - Todo list complete with datasource and delegate methods.  &  Add new item functionality complete - custom items can be added to array through an alert text field.  Uploaded project to github repository.
+
+
+### R1Day015
