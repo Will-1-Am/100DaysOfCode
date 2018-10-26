@@ -112,5 +112,11 @@ Why "override func"? Overriding declaration requires an 'override' keyword.  - A
 
 ToDoey App - Todo list complete with datasource and delegate methods.  &  Add new item functionality complete - custom items can be added to array through an alert text field.  Uploaded project to github repository.
 
+### R1Day015 Friday, 26 October 2018
+Day 15 R1 began with a bit of JSON parsing for embellishment to the Clima App #LondonAppBrewer. #100DaysOfCode
 
-### R1Day015
+Completed Chapter 3 of Learn Enough Command Line to be Dangerous - history, curl, bang & double bang, top, grep, less, head, tail... really useful commands. https://www.learnenough.com/command-line-tutorial#aside-technical_sophistication
+
+Continued with the ToDoey App and implemented data persistence using UserDefaults method allowing user data added in app to be available when app is restarted.  Also created a new Playground for experimenting with UserDefaults.
+
+### R1Day016
