@@ -119,4 +119,9 @@ Completed Chapter 3 of Learn Enough Command Line to be Dangerous - history, curl
 
 Continued with the ToDoey App and implemented data persistence using UserDefaults method allowing user data added in app to be available when app is restarted.  Also created a new Playground for experimenting with UserDefaults.
 
-### R1Day016
+### R1Day016 Saturday, 27 October 2018
+Learned more about UserDefaults and Singletons with @LondonAppBrewer on Day 16 R1 #100DaysOfCode
+https://developer.apple.com/documentation/foundation/userdefaults
+https://stackoverflow.com/questions/137975/what-is-so-bad-about-singletons
+
+### R1Day017
