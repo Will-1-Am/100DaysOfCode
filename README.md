@@ -124,4 +124,34 @@ Learned more about UserDefaults and Singletons with @LondonAppBrewer on Day 16 R
 https://developer.apple.com/documentation/foundation/userdefaults
 https://stackoverflow.com/questions/137975/what-is-so-bad-about-singletons
 
-### R1Day017
+### R1Day017 Monday, 29 October 2018
+Day 17 begins and while I did a review of singletons and UserDefaults yesterday, the day will not be counted as one of the #100DaysofCode - Pumpkins had to be carved...🎃 @LondonAppBrewer #freeCodeCamp
+
+Swift development tutorial https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/
+
+Apple developer archive
+https://developer.apple.com/library/archive/navigation/
+
+//Ternary operator ==>
+//value = condition ? valueIfTrue : valueIfFalse
+
+ToDoey[1748:336062] [User Defaults] Attempt to set a non-property-list object (
+    "ToDoey.Item",
+    "ToDoey.Item",
+    "ToDoey.Item",
+    "ToDoey.Item"
+) as an NSUserDefaults/CFPreferences value for key TodoListArray
+
+'NSInvalidArgumentException', reason: 'Attempt to insert non-property list object (
+    "ToDoey.Item",
+    "ToDoey.Item",
+    "ToDoey.Item",
+    "ToDoey.Item"
+) for key TodoListArray'
+The above crash data is an indicator that we have reached the limits of the plist as the itemArray object is now a custom array and is no longer compatible with the plist.  Additionally, there could potentially be performance implications owing to the array size and general size of the plist.
+
+Reviewed AWS Well-Architected Framework
+https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
+
+
+### R1Day018
