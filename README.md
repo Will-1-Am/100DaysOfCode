@@ -150,8 +150,16 @@ ToDoey[1748:336062] [User Defaults] Attempt to set a non-property-list object (
 ) for key TodoListArray'
 The above crash data is an indicator that we have reached the limits of the plist as the itemArray object is now a custom array and is no longer compatible with the plist.  Additionally, there could potentially be performance implications owing to the array size and general size of the plist.
 
+Implemented NSCoder to encode and decode data to a custom plist "database".  Until now, the following methods of data storage and retrieval:  an external database (Firebase) in the Flash Chat app; the UserDefaults plist in the ToDoey app; and a custom plist has now been defined in ToDoey.
+
 Reviewed AWS Well-Architected Framework
 https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
 
 
-### R1Day018
+### R1Day018 Tuesday, 30 October 2018
+Day 18 R1 #100DaysOfCode began with a review of AWS Well-Architected Questions, Answers and Best Practices.  And now for some Swift coding with #LondonAppBrewer.  
+
+Implemented SQL lite database using the CoreData Framework in the ToDoey app.  Looked at Create Read Update & Destroy (CRUD) techniques w.r.t. SQL lite data base.  Installed Datum Free for the ability to view the data file and manipulate it.
+
+
+### R1Day019
