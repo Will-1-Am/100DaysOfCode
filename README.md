@@ -161,5 +161,7 @@ Day 18 R1 #100DaysOfCode began with a review of AWS Well-Architected Questions, 
 
 Implemented SQL lite database using the CoreData Framework in the ToDoey app.  Looked at Create Read Update & Destroy (CRUD) techniques w.r.t. SQL lite data base.  Installed Datum Free for the ability to view the data file and manipulate it.
 
+How cool is that?!  You can now side-load apps with WiFi!  No more cables. Wa Hoo! @LondonAppBrewer #100DaysOfCode  First connect the iPhone & computer with the lightning cable. Then in Simulator menu go to Hardware > Device > Manage Devices... then Tick Connect via Network.  Do disconnect the cable from the iPhone and commence side-loading. 
+
 
 ### R1Day019
