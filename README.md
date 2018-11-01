@@ -1,5 +1,14 @@
 # 100DaysOfCode
 
+### R1Day020 Thursday, 01 November 2018
+Day 20 Round 1 #100DaysOfCode and despite embracing Apple documentation unconditionally, the moment feels distant when it will reciprocate.  #LondonAppBrewer is an inspiration and one can't help but appreciate the trials and tribulations developers endure.
+
+Added category feature to ToDoey App making use of a linked one-to-many "category" entity to the "item" entity.  Extensions were covered in the same module, and serve to separate bits of code that would otherwise crowd the main ViewController.  Using "didSet" to specify what happens when a variable is set with a new value.  CRUD using a context and committing the current context state to a persistent container using context.save.  Accessing a singleton to use its delegate property to tap into a persistent container - a lazy variable.
+
+Attended #freeCodeCamp Meetup - and learn about coffee & code sessions that the group hosts.
+
+Looking forward to an introduction to Realm with #LondonAppBrewer.
+
 ### R1Day019 Wednesday, 31 October 2018
 Happy Hallowe'en! Completely finished reviewing AWS Well-Architected Questions, Answers and Best Practices today Day 19 of #100DaysOfCode.  
 
