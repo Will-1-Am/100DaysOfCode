@@ -1,5 +1,9 @@
 # 100DaysOfCode
 
+### R1Day021 Friday, 02 November 2018
+Day 21 R1 began with iOS Update to 12.1 - with all the waiting, what could I do but code, code, code... #100DaysOfCode. 
+
+
 ### R1Day020 Thursday, 01 November 2018
 Day 20 Round 1 #100DaysOfCode and despite embracing Apple documentation unconditionally, the moment feels distant when it will reciprocate.  #LondonAppBrewer is an inspiration and one can't help but appreciate the trials and tribulations developers endure.
 
