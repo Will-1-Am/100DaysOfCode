@@ -1,8 +1,13 @@
 # 100DaysOfCode
 
 ### R1Day021 Friday, 02 November 2018
-Day 21 R1 began with iOS Update to 12.1 - with all the waiting, what could I do but code, code, code... #100DaysOfCode. 
+Day 21 R1 began with iOS Update to 12.1 - with all the waiting, what could I do but code, code, code... #100DaysOfCode.
 
+Cybersecurity Best Practices - HT @KroonenburgRyan for his super AWS lectures.
+https://www.cisecurity.org/cybersecurity-best-practices/
+
+Product Landing Page progress - fixed the navbar issue by adding a few divs in strategic places.  14/16 criteria met to pass project. Added hover feature for the navbar buttons.
+https://codepen.io/will-1-am-the-Iceman/pen/BqqMqy
 
 ### R1Day020 Thursday, 01 November 2018
 Day 20 Round 1 #100DaysOfCode and despite embracing Apple documentation unconditionally, the moment feels distant when it will reciprocate.  #LondonAppBrewer is an inspiration and one can't help but appreciate the trials and tribulations developers endure.
