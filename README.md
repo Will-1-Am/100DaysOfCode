@@ -1,5 +1,8 @@
 # 100DaysOfCode
 
+### R1Day022 Saturday, 03 November 2018
+html5/css code was the task today Day 22 R1 of #100DaysOfCode.  Managed to create a logo and insert it into the navbar of the Product Landing Page.  Still more to do.  Roll on day 23...
+
 ### R1Day021 Friday, 02 November 2018
 Day 21 R1 began with iOS Update to 12.1 - with all the waiting, what could I do but code, code, code... #100DaysOfCode.
 
