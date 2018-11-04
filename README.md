@@ -1,5 +1,10 @@
 # 100DaysOfCode
 
+### R1Day023 Sunday, 04 November 2018
+Added more data fields to the Clima app #LondonAppBrewer on this 23rd Day R1 of the #100DaysOfCode.  Stack Views are awesome!
+
+Discovered the rounded() instance method today and how creating a constant can allow the casting of data types more easily.
+
 ### R1Day022 Saturday, 03 November 2018
 html5/css code was the task today Day 22 R1 of #100DaysOfCode.  Managed to create a logo and insert it into the navbar of the Product Landing Page.  Still more to do.  Roll on day 23...
 
