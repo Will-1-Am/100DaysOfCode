@@ -3,12 +3,14 @@
 ### R1Day024 Monday, 05 November 2018
 Remember, remember to code on the fifth of November, #100DaysOfCode Day24 R1.  
 
-Today begins with a AWS Cloud Solutions Architect review and a concerted effort to finish the #Udemy / #ACloudGuru course by the end of the week.  
+Today begins with a AWS Cloud Solutions Architect review and a concerted effort to finish the #Udemy / #ACloudGuru course by the end of the week.  Reviewed Section 12 of the course covering Consolidated billing, AWS Organisations, and configured Cross Account Access.
+
+Also discovered resourcespace a site for asset hosting https://www.resourcespace.com/pricing ; aws / aws-sdk-ios and aws-samples / lambda-refarch-mobilebackend on GitHub that need further investigation.
 
 ### R1Day023 Sunday, 04 November 2018
 Added more data fields to the Clima app #LondonAppBrewer on this 23rd Day R1 of the #100DaysOfCode.  Stack Views are awesome!
 
-Discovered the rounded() instance method today and how creating a constant can allow the casting of data types more easily.
+Discovered the rounded() instance method today (https://developer.apple.com/documentation/swift/floatingpoint/2295900-rounded#discussion) and how creating a constant can allow the casting of data types more easily.
 
 ### R1Day022 Saturday, 03 November 2018
 html5/css code was the task today Day 22 R1 of #100DaysOfCode.  Managed to create a logo and insert it into the navbar of the Product Landing Page.  Still more to do.  Roll on day 23...
