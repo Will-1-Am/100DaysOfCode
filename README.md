@@ -1,5 +1,10 @@
 # 100DaysOfCode
 
+### R1Day024 Monday, 05 November 2018
+Remember, remember to code on the fifth of November, #100DaysOfCode Day24 R1.  
+
+Today begins with a AWS Cloud Solutions Architect review and a concerted effort to finish the #Udemy / #ACloudGuru course by the end of the week.  
+
 ### R1Day023 Sunday, 04 November 2018
 Added more data fields to the Clima app #LondonAppBrewer on this 23rd Day R1 of the #100DaysOfCode.  Stack Views are awesome!
 
