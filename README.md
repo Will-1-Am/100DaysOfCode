@@ -1,5 +1,8 @@
 # 100DaysOfCode
 
+### R1Day025 Tuesday, 06 November 2018
+It's Christmas in #100DaysOfCode on this 25th Day R1.  What coding presents await me?  Stay tuned as I unwrap them - you may even get a gift yourself...
+
 ### R1Day024 Monday, 05 November 2018
 Remember, remember to code on the fifth of November, #100DaysOfCode Day24 R1.  
 
