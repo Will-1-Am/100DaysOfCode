@@ -3,6 +3,10 @@
 ### R1Day025 Tuesday, 06 November 2018
 It's Christmas in #100DaysOfCode on this 25th Day R1.  What coding presents await me?  Stay tuned as I unwrap them - you may even get a gift yourself...
 
+The first present is in!  Working on my #freeCodeCamp Product Landing Page project, I needed a place to store assets like logos, photos, etc.  @ResourceSpace looks great, but then I thought I have a @awscloud S3 bucket I can use! #100DaysOfCode @acloudguru
+
+Finished section 12 of the AWS Cloud Solutions Architect course @acloudguru !  #100DaysOfCode The finish line is in sight now...
+
 ### R1Day024 Monday, 05 November 2018
 Remember, remember to code on the fifth of November, #100DaysOfCode Day24 R1.  
 
