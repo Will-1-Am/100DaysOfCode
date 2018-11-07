@@ -5,6 +5,7 @@ Read "What is an API? In English, please." by @PetrGazarov to kick off Day 26 R1
 
 Joined @codewars HT @jaredMakes earning the 8kyu rank with my first Swift kata.  #100DaysOfCode is an awesome idea!
 
+Implemented AudioKit cocoapod in a test project for a bit of experimentation.  Despite converting the code from Swift 3 to Swift 4 the following error is reported ":-1: linker command failed with exit code 1 (use -v to see invocation)". Will look into this tomorrow.
 
 ### R1Day025 Tuesday, 06 November 2018
 It's Christmas in #100DaysOfCode on this 25th Day R1.  What coding presents await me?  Stay tuned as I unwrap them - you may even get a gift yourself...
