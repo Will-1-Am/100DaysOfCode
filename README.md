@@ -1,5 +1,11 @@
 # 100DaysOfCode
 
+### R1Day026 Wednesday, 07 November 2018
+Read "What is an API? In English, please." by @PetrGazarov to kick off Day 26 R1 #100DaysOfCode. Check it out: https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82
+
+Joined @codewars HT @jaredMakes earning the 8kyu rank with my first Swift kata.  #100DaysOfCode is an awesome idea!
+
+
 ### R1Day025 Tuesday, 06 November 2018
 It's Christmas in #100DaysOfCode on this 25th Day R1.  What coding presents await me?  Stay tuned as I unwrap them - you may even get a gift yourself...
 
