@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+### R1Day027 Thursday, 08 November 2018
+Time to attack and fix Xcode compiler errors - if possible - on Day 27 R1 #100DaysofCode.   Module compiled with Swift 3.1 cannot be imported by the Swift 4.2.1 compiler: /Users/william/Desktop/App Development/AudioKitPlaygrounds/AudioKitPlaygrounds/AudioKit.framework/Modules/AudioKit.swiftmodule/x86_64.swiftmodule
+
+Contents of DerivedData folder can be deleted safely! https://stackoverflow.com/questions/18933321/can-i-safely-delete-contents-of-xcode-derived-data-folder
+
+Deleted contents of DerivedData folder, created a new podfile in the root project directory and updating pod.
+
+Sesquipedalian is definitely the word of the day.
+
+
 ### R1Day026 Wednesday, 07 November 2018
 Read "What is an API? In English, please." by @PetrGazarov to kick off Day 26 R1 #100DaysOfCode. Check it out: https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82
 
