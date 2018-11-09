@@ -1,5 +1,8 @@
 # 100DaysOfCode
 
+### R1Day028 Friday, 09 November 2018
+Yesterday, completed first @codewars kata and now learning about variadic parameter functions - HT @LondonAppBrewer training is superb.  I hadn't considered that I might also be learning more of my own mother tongue in #100DaysOfCode Day28 R1  
+
 ### R1Day027 Thursday, 08 November 2018
 Time to attack and fix Xcode compiler errors - if possible - on Day 27 R1 #100DaysofCode.   Module compiled with Swift 3.1 cannot be imported by the Swift 4.2.1 compiler: /Users/william/Desktop/App Development/AudioKitPlaygrounds/AudioKitPlaygrounds/AudioKit.framework/Modules/AudioKit.swiftmodule/x86_64.swiftmodule
 
@@ -8,6 +11,8 @@ Contents of DerivedData folder can be deleted safely! https://stackoverflow.com/
 Deleted contents of DerivedData folder, created a new podfile in the root project directory and updating pod.
 
 Sesquipedalian is definitely the word of the day.
+
+Just discovered that double-clicking on a curly bracket in Xcode 10 highlights the affected block of code.  Cool!
 
 
 ### R1Day026 Wednesday, 07 November 2018
