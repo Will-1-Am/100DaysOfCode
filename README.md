@@ -1,5 +1,8 @@
 # 100DaysOfCode
 
+### R1Day029 Saturday, 10 November 2018
+Completed more katas @codewars on this Day 29 R1 #100DaysOfCode.
+
 ### R1Day028 Friday, 09 November 2018
 Yesterday, completed first @codewars kata and now learning about variadic parameter functions - HT @LondonAppBrewer training is superb.  I hadn't considered that I might also be learning more of my own mother tongue in #100DaysOfCode Day28 R1  
 
