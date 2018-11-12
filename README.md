@@ -3,6 +3,13 @@
 ### R1Day030 Monday, 12 November 2018
 Refreshing Swift pattern matching skills on Day30 R1 #100DaysOfCode.
 
+Another @codewars kata done with switch case code for pattern matching.
+
+https://developer.apple.com/videos/play/wwdc2018/406/
+https://www.raywenderlich.com/722-swift-generics-tutorial-getting-started
+
+Another @codewars kata done - this time with generics.
+
 ### R1Day029 Saturday, 10 November 2018
 Completed more katas @codewars on this Day 29 R1 #100DaysOfCode.
 
