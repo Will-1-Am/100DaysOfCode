@@ -1,5 +1,8 @@
 # 100DaysOfCode
 
+### R1Day030 Monday, 12 November 2018
+Refreshing Swift pattern matching skills on Day30 R1 #100DaysOfCode.
+
 ### R1Day029 Saturday, 10 November 2018
 Completed more katas @codewars on this Day 29 R1 #100DaysOfCode.
 
