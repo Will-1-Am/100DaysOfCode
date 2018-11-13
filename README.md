@@ -1,5 +1,8 @@
 # 100DaysOfCode
 
+### R1Day031 Tuesday, 13 November 2018
+Day 31 R1 started with a POP! and Niv Yahel @nivivon great tutorial. #100DaysOfCode https://www.raywenderlich.com/814-introducing-protocol-oriented-programming-in-swift-3
+
 ### R1Day030 Monday, 12 November 2018
 Refreshing Swift pattern matching skills on Day30 R1 #100DaysOfCode.
 
