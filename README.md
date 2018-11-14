@@ -1,5 +1,14 @@
 # 100DaysOfCode
 
+### R1Day032 Wednesday, 14 November 2018
+I solved the "Disemvowel Trolls" kata - Swift 3 & 4! Take the code initiation @ codewars.com/r/8irwRw to enlist and challenge yourself. #codewars #100DaysOfCode Day 32 R1
+
+Promoted to 7kyu after completing another @codewars kata using array map. Wa hoo!
+
+Useful link for legacy Swift compilations.
+https://www.jdoodle.com/execute-swift-online
+
+
 ### R1Day031 Tuesday, 13 November 2018
 Day 31 R1 started with a POP! and Niv Yahel @nivivon great tutorial. #100DaysOfCode https://www.raywenderlich.com/814-introducing-protocol-oriented-programming-in-swift-3
 
