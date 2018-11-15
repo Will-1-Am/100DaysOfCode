@@ -3,6 +3,12 @@
 ### R1Day033 Thursday, 15 November 2018
 Resolving rounding errors in proposed @codewars kata solution.  Day 33 started with a bit of a head scratcher... #100DaysOfCode
 
+Read a great article about optionals by @LusineMargarian #100DaysOfCode https://hackernoon.com/swift-optionals-explained-simply-e109a4297298
+
+Great article on implementing HTTPS with very useful links and information by @Ayoisaiah. Check it out.  #100DaysOfCode https://medium.freecodecamp.org/free-https-c051ca570324
+
+Wallpaper kata completed @codewars with arrays and conditional testing.  Could use refactoring.
+
 ### R1Day032 Wednesday, 14 November 2018
 I solved the "Disemvowel Trolls" kata - Swift 3 & 4! Take the code initiation @ codewars.com/r/8irwRw to enlist and challenge yourself. #codewars #100DaysOfCode Day 32 R1
 
