@@ -1,5 +1,8 @@
 # 100DaysOfCode
 
+### R1Day033 Thursday, 15 November 2018
+Resolving rounding errors in proposed @codewars kata solution.  Day 33 started with a bit of a head scratcher... #100DaysOfCode
+
 ### R1Day032 Wednesday, 14 November 2018
 I solved the "Disemvowel Trolls" kata - Swift 3 & 4! Take the code initiation @ codewars.com/r/8irwRw to enlist and challenge yourself. #codewars #100DaysOfCode Day 32 R1
 
