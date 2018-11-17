@@ -1,6 +1,24 @@
 # 100DaysOfCode
 
+### R1Day035 Saturday, 17 November 2018
+Day 35 #100DaysOfCode and finding the best way to test an optional component of an array to finish a little piece of code. 
+
+### R1Day034 Friday, 16 November 2018
+Day 34 R1 started with many coding thoughts and an early morning run. #100DaysOfCode
+
+Great article on string manipulation in Swift
+https://medium.com/@felicity.johnson.mail/how-to-split-a-string-swift-3-0-e9b757445064
+
+Super documentation about Swift dictionaries
+https://developer.apple.com/documentation/swift/dictionary
+
+HT to @ykdojo and his great article "What exactly can you do with Python? Here are Python’s 3 main applications." https://medium.freecodecamp.org/what-can-you-do-with-python-the-3-main-applications-518db9a68a78 … #100DayOfCode
+
+Calculate the value of a number raised to a power.
+https://iswift.org/cookbook/calculate-power-of-a-number
+
 ### R1Day033 Thursday, 15 November 2018
+
 Resolving rounding errors in proposed @codewars kata solution.  Day 33 started with a bit of a head scratcher... #100DaysOfCode
 
 Read a great article about optionals by @LusineMargarian #100DaysOfCode https://hackernoon.com/swift-optionals-explained-simply-e109a4297298
