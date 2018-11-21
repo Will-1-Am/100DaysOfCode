@@ -1,5 +1,21 @@
 # 100DaysOfCode
 
+### R1Day039 Tuesday, 21 November 2018
+Attended another Athens iOS MeetUp about CoreML and Machine learning, and Caching.  Great presentations and plenty of inspiration.  Roll on Day39R1 #100DaysOfCode
+
+Check out this Meetup Group in Athens: https://www.meetup.com/Athens-iOS-MeetUps/ #Meetup #Athens via @Meetup
+
+Swift — Map, FlatMap, Filter and Reduce
+https://codeburst.io/swift-map-flatmap-filter-and-reduce-53959ebeb6aa
+
+CompactMap vs flatMap: The differences explained
+https://medium.com/swift-programming/compactmap-vs-flatmap-the-differences-explained-ad0da852fb00
+
+### R1Day038 Tuesday, 20 November 2018
+I solved another @codewars.com kata! Take the code initiation @codewars.com/r/8irwRw to enlist and challenge yourself. #codewars #100DaysOfCode Day38R1
+
+How to use ternary conditional (? :) operator in Swift?
+
 ### R1Day037 Monday, 19 November 2018
 Cracked it! Another @codewars kata under my belt.  Day 37 R1 #100DaysOfCode.  Learned that remainder & truncated remainder functions can yield interesting results.
 
@@ -18,6 +34,8 @@ Tidied up and attempted to finish another @codewars kata on Day 36 #100DaysOfCod
 Switch statement in Swift
 https://stackoverflow.com/questions/25279000/switch-statement-in-swift
 
+Exponentiation operator in Swift
+https://stackoverflow.com/questions/24065801/exponentiation-operator-in-swift
 
 ### R1Day035 Saturday, 17 November 2018
 Day 35 #100DaysOfCode and finding the best way to test an optional component of an array to finish a little piece of code.
