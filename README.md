@@ -1,6 +1,19 @@
 # 100DaysOfCode
 
-### R1Day039 Tuesday, 21 November 2018
+### R1Day041 Friday, 23 November 2018
+I solved another kata! Take the code initiation @ http://codewars.com/r/8irwRw  to enlist and challenge yourself. #codewars #100DaysOfCode
+
+### R1Day040 Thursday, 22 November 2018
+Happy Thanksgiving and a cornucopia of coding! Day40 R1 #100DaysOfCode
+
+Looping In Swift
+Meaningful Repetition.
+https://medium.com/the-traveled-ios-developers-guide/looping-in-swift-c9165989e569
+
+Swift 3 flow Control
+https://www.techotopia.com/index.php/Swift_Flow_Control
+
+### R1Day039 Wednesday, 21 November 2018
 Attended another Athens iOS MeetUp about CoreML and Machine learning, and Caching.  Great presentations and plenty of inspiration.  Roll on Day39R1 #100DaysOfCode
 
 Check out this Meetup Group in Athens: https://www.meetup.com/Athens-iOS-MeetUps/ #Meetup #Athens via @Meetup
