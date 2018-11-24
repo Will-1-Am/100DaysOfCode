@@ -1,7 +1,23 @@
 # 100DaysOfCode
 
+### R1Day042 Saturday, 24 November 2018
+Learning how to use @processstreet as part of a project with a client - an interesting way of creating and managing work flows and much more.  Check it out at http://process.st ! #100DaysOfCode
+
+Day42 R1 began with experiments with compactmap in Swift.  Roll on Day 43! #100DaysOfCode
+
+Replacing flatMap With compactMap
+https://useyourloaf.com/blog/replacing-flatmap-with-compactmap/
+
+Introduce Sequence.compactMap(_:)
+https://github.com/apple/swift-evolution/blob/master/proposals/0187-introduce-filtermap.md
+
 ### R1Day041 Friday, 23 November 2018
 I solved another kata! Take the code initiation @ http://codewars.com/r/8irwRw  to enlist and challenge yourself. #codewars #100DaysOfCode
+
+Working with JSON in Swift
+https://developer.apple.com/swift/blog/?id=37
+
+Solved the second @codewars.com kata of the day.
 
 ### R1Day040 Thursday, 22 November 2018
 Happy Thanksgiving and a cornucopia of coding! Day40 R1 #100DaysOfCode
