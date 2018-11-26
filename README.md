@@ -3,6 +3,9 @@
 ### R1Day043 Monday, 26 November 2018
 Day 43 R1 and another day of golden coding opportunity. #100DaysOfCode
 
+How to Create Website Layouts Using CSS Grid | Learn HTML and CSS | HTML Tutorial
+https://youtu.be/HgwCeNVPlo0
+
 ### R1Day042 Saturday, 24 November 2018
 Learning how to use @processstreet as part of a project with a client - an interesting way of creating and managing work flows and much more.  Check it out at http://process.st ! #100DaysOfCode
 
