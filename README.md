@@ -1,5 +1,11 @@
 # 100DaysOfCode
 
+### R1Day044 Tuesday, 27 November 2018
+A review of CSS Flexbox to start the day.  Ah bliss.  Day 44, R1 #100DaysOfCode #freeCodeCamp HT @usemmtuts
+
+22: An Exercise Using CSS Flexbox | Learn to Create Layouts Using CSS | Learn CSS | Flexbox Tutorial
+https://youtu.be/Z2quX2qWmEA
+
 ### R1Day043 Monday, 26 November 2018
 Day 43 R1 and another day of golden coding opportunity. #100DaysOfCode
 
