@@ -1,5 +1,9 @@
 # 100DaysOfCode
 
+### R1Day045 Wednesday, 28 November 2018
+Applying CSS Flexbox to product landing page project @freeCodeCamp #100DaysOfCode Day45 R1
+
+
 ### R1Day044 Tuesday, 27 November 2018
 A review of CSS Flexbox to start the day.  Ah bliss.  Day 44, R1 #100DaysOfCode #freeCodeCamp HT @usemmtuts
 
