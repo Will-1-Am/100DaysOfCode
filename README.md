@@ -1,8 +1,15 @@
 # 100DaysOfCode
 
+### R1Day046 Thursday, 29 November 2018
+More "CSSing" today @freeCodeCamp Day46 R1 #100DaysOfCode
+
+Completed Heron's formula kata #codewars.
+
 ### R1Day045 Wednesday, 28 November 2018
 Applying CSS Flexbox to product landing page project @freeCodeCamp #100DaysOfCode Day45 R1
 
+CSS flex property
+https://developer.mozilla.org/en-US/docs/Web/CSS/flex
 
 ### R1Day044 Tuesday, 27 November 2018
 A review of CSS Flexbox to start the day.  Ah bliss.  Day 44, R1 #100DaysOfCode #freeCodeCamp HT @usemmtuts
