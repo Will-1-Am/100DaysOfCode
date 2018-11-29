@@ -5,6 +5,14 @@ More "CSSing" today @freeCodeCamp Day46 R1 #100DaysOfCode
 
 Completed Heron's formula kata #codewars.
 
+Easiest way to find Square Root in Swift?
+https://stackoverflow.com/questions/31146467/easiest-way-to-find-square-root-in-swift/31146614
+
+Type Int does not conform to protocol sequence
+https://stackoverflow.com/questions/42058478/type-int-does-not-conform-to-protocol-sequence
+
+Completed Amazonian counting kata #codewars
+
 ### R1Day045 Wednesday, 28 November 2018
 Applying CSS Flexbox to product landing page project @freeCodeCamp #100DaysOfCode Day45 R1
 
