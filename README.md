@@ -1,5 +1,11 @@
 # 100DaysOfCode
 
+### R1Day047 Friday, 30 November 2018
+Learning about SFTP! Day47 R1 #100DaysOfCode Later I will be attacking my product landing page project @freeCodeCamp again.
+
+OPENSSH: KEY MANAGEMENT NEEDS ATTENTION + SFTP
+https://www.ssh.com/ssh/openssh/
+
 ### R1Day046 Thursday, 29 November 2018
 More "CSSing" today @freeCodeCamp Day46 R1 #100DaysOfCode
 
