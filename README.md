@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+### R1Day048 Monday, 03 December 2018
+Reading Rob Roebling at https://medium.com/swift2go/beginning-swift-programming-part-1-variables-constants-and-types-776ad50952f1 … A great read for beginner Swift programmers and reviewing the very basics on Day 48 R1 #100DaysOfCode!  Did you know an _ can be used as a digits separator in Swift (like 3_000) ?
+
+What is Simple MDM?
+https://simplemdm.com  
+Mobile device management for rolling out applications and general management of mobile devices.
+
+How to scrape websites with Python and BeautifulSoup
+https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
+
 ### R1Day047 Friday, 30 November 2018
 Learning about SFTP! Day47 R1 #100DaysOfCode Later I will be attacking my product landing page project @freeCodeCamp again.
 
