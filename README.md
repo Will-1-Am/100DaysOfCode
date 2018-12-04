@@ -20,6 +20,8 @@ Mobile device management for rolling out applications and general management of 
 How to scrape websites with Python and BeautifulSoup
 https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
 
+Translated first @codewars kata from Python to Swift!
+
 ### R1Day047 Friday, 30 November 2018
 Learning about SFTP! Day47 R1 #100DaysOfCode Later I will be attacking my product landing page project @freeCodeCamp again.
 
