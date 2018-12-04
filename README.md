@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+### R1Day049 Monday, 04 December 2018
+Reading another great article by Bob Roebling - Beginning Swift Programming Part 2 — Value Types, Reference Types, Pointers, and Collection Types.  
+
+Also learned about Swift2Go - Check it out!  Rock-on Day 49 R1 #100DaysOfCode
+
+https://medium.com/swift2go/beginning-swift-programming-part-2-value-types-reference-types-pointers-and-collection-types-e48bc26a49bb
+
+Swift2Go - Swift Developers Community
+https://medium.com/swift2go
+
 ### R1Day048 Monday, 03 December 2018
 Reading Rob Roebling at https://medium.com/swift2go/beginning-swift-programming-part-1-variables-constants-and-types-776ad50952f1 … A great read for beginner Swift programmers and reviewing the very basics on Day 48 R1 #100DaysOfCode!  Did you know an _ can be used as a digits separator in Swift (like 3_000) ?
 
