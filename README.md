@@ -1,10 +1,35 @@
 # 100DaysOfCode
 
+### R1Day055 Monday, 10 December 2018
+Disected a solution for the beta bowtie kata @codewars. #100DaysOfCode Day55 R1
+
+### R1Day054 Sunday, 09 December 2018
+Submitted solution for the beta bowtie kata @codewars and realised I need to review closures.   
+
+### R1Day053 Saturday, 08 December 2018
+Bowtie kata @codewars.
+
+### R1Day052 Friday, 07 December 2018
+Reviewed Bob Roebling's articles, worked on Product Landing Page and completed more @codewars katas.
+
+### R1Day051 Thursday, 06 December 2018
+Did you know the character sequence &lt; and &gt; will permit the inclusion of "<" and ">" in your HTML code. Day51 R1 #100DaysOfCode Check it out!
+https://stackoverflow.com/questions/13177555/how-to-use-delimiter-text-symbol-without-getting-html-error-on-my-webpage
+
+Beginning Swift Programming Part 4 — Decision Making and Loops - Bob Roebling
+https://medium.com/swift2go/beginning-swift-programming-part-4-decision-making-and-loops-9b87b309d69e
+
 ### R1Day050 Wednesday, 05 December 2018
 Just seeing where I can apply some nil-coalescing operators in my code after reading Bob Roebling's next instalment in his Beginning Swift Programming series. Day 50! R1 #100DaysOfCode Did you know that optional variables can be instantiated?
 
 Beginning Swift Programming Part 3 — Operators, Optionals, and Nil Values
 https://medium.com/swift2go/beginning-swift-programming-part-3-operators-optionals-and-nil-values-8454ae125b28
+
+Python String partition() Method
+https://www.w3schools.com/python/ref_string_partition.asp
+
+UTF8 Encoder
+https://www.browserling.com/tools/utf8-encode
 
 ### R1Day049 Tuesday, 04 December 2018
 Reading another great article by Bob Roebling - Beginning Swift Programming Part 2 — Value Types, Reference Types, Pointers, and Collection Types.  
