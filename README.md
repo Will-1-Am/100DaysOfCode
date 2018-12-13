@@ -1,10 +1,28 @@
 # 100DaysOfCode
 
+### R1Day058 Wednesday, 13 December 2018
+
+
+### R1Day057 Tuesday, 12 December 2018
+Completed my first 6kyu @codewars kata on Day57 R1 #100DaysOfCode. Wa hoo!
+
+A behind the scenes look at Map, Filter, and Reduce in Swift
+Boudhayan Biswas
+https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80
+
+### R1Day056 Tuesday, 11 December 2018
+Day 56 R1 #100DaysOfCode wrote a function for sorting integer arrays in Swift.  Now its time for some beauty sleep...
+
+Beginning Swift Programming Part 5 — Functions, Enums, and Scope
+https://medium.com/swift2go/beginning-swift-programming-part-5-functions-enums-and-scope-d26a62a44e13
+
 ### R1Day055 Monday, 10 December 2018
 Disected a solution for the beta bowtie kata @codewars. #100DaysOfCode Day55 R1
 
+Completed @codewars Run-length Encoder kata.
+
 ### R1Day054 Sunday, 09 December 2018
-Submitted solution for the beta bowtie kata @codewars and realised I need to review closures.   
+Submitted solution for the beta bowtie kata @codewars and realised I need to review closures.
 
 ### R1Day053 Saturday, 08 December 2018
 Bowtie kata @codewars.
