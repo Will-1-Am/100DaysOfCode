@@ -1,7 +1,22 @@
 # 100DaysOfCode
 
-### R1Day058 Wednesday, 13 December 2018
+### R1Day060 Monday, 17 December 2018
+The Ultimate Guide To Closures In Swift by Reinder de Vries
+https://learnappmaking.com/closures-swift-how-to/
 
+http://goshdarnclosuresyntax.com
+
+### R1Day059 Thursday, 14 December 2018
+The Swift zip function is awesome for combining arrays!  Day59 R1 #100DaysOfCode
+
+### R1Day058 Wednesday, 13 December 2018
+Working my way through this great article.  Check it out!  Day58 R1 #100DaysOfCode
+A behind the scenes look at Map, Filter, and Reduce in Swift
+Boudhayan Biswas
+https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80
+
+Swift Guide to Map Filter Reduce
+https://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/
 
 ### R1Day057 Tuesday, 12 December 2018
 Completed my first 6kyu @codewars kata on Day57 R1 #100DaysOfCode. Wa hoo!
