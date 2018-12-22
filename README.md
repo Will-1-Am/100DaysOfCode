@@ -1,7 +1,23 @@
 # 100DaysOfCode
 
+### R1Day064 Saturday, 22 December 2018
+How to get values of dictionary in array in swift
+https://stackoverflow.com/questions/27415974/how-to-get-values-of-dictionary-in-array-in-swift
+
+### R1Day063 Friday, 21 December 2018
+How to call a function that is located in another class?
+https://stackoverflow.com/questions/42990997/how-to-call-a-function-that-is-located-in-another-class-in-swift
+
+### R1Day062 Thursday, 20 December 2018
+On Day62, R1 my instincts are telling me that making a function call from within a function to the same function could spell D A N G E R. #100DaysOfCode #LondonAppBrewer
+
+### R1Day061 Wednesday, 19 December 2018
+It always feels great to rediscover principles of mathematics or properties of nature, through coding (and other methods of course).  Gaussian modular arithmetic and the 12, 24 or other clock/cycle being case in point for this 61st Day R1 #100DaysOfCode
+
 ### R1Day060 Monday, 17 December 2018
-The Ultimate Guide To Closures In Swift by Reinder de Vries
+Completed @codewars kata
+
+The Ultimate Guide To Closures In Swift by Reinder de Vries @reinder42
 https://learnappmaking.com/closures-swift-how-to/
 
 http://goshdarnclosuresyntax.com
