@@ -1,5 +1,9 @@
 # 100DaysOfCode
 
+### R1Day065 Sunday, 23 December 2018
+Ranked up @codewars with a level 5 kata! on Day65 R1 #100DaysOfCode
+
+
 ### R1Day064 Saturday, 22 December 2018
 How to get values of dictionary in array in swift
 https://stackoverflow.com/questions/27415974/how-to-get-values-of-dictionary-in-array-in-swift
