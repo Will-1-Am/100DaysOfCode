@@ -1,5 +1,11 @@
 # 100DaysOfCode
 
+### R1Day066 Sunday, 23 December 2018
+Another @codewars kata solved.  
+
+Guard Statements
+https://thatthinginswift.com/guard-statement-swift/
+
 ### R1Day065 Sunday, 23 December 2018
 Ranked up @codewars with a level 5 kata! on Day65 R1 #100DaysOfCode
 
