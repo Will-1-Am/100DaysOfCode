@@ -1,10 +1,61 @@
 # 100DaysOfCode
 
-### R1Day066 Sunday, 23 December 2018
+### R1Day072 Tuesday, 08 January 2019
+Refactored code from the Project Euler challege for finding largest prime factor for a large number.
+
+### R1Day071 Monday, 07 January 2019
+Completed a Project Euler challenge for the third this year in Swift of course.
+
+### R1Day070 Saturday, 05 January 2019
+
+### R1Day069 Friday, 04 January 2019
+projecteuler.net
+
+### R1Day068 Thursday, 03 January 2019
+Woocommerce iOS project specs
+http://proxima.elzite.com/ios/
+
+Woocommerce project
+http://proxima.elzite.com/
+
+Woocommerce rest-api docs
+https://woocommerce.github.io/woocommerce-rest-api-docs/?shell#rest-api-keys
+
+nodejs
+https://nodejs.org/en/download/
+
+React Native
+https://facebook.github.io/react-native/docs/tutorial
+
+AppAnnie - app performance tracking platform
+https://www.appannie.com/en/platform/free-premium/?_ref=footer
+
+### R1Day067 Wednesday, 02 January 2019
+The year is off to a good start with a deep dive into a Woocommerce site, and the API to pull data into an iOS app!  A little pressure is always good for learning a phenomenal amount.  Day67 - 69 R1 #100DaysOfCode #LondonAppBrewer
+
+### R1Day066 Sunday, 30 December 2018
 Another @codewars kata solved.  
+
+About backups for iOS devices
+https://support.apple.com/en-gb/HT204136
+
+Can you write nested functions in JavaScript?
+https://stackoverflow.com/questions/3212477/can-you-write-nested-functions-in-javascript
+
+Learn Docker in 20 Minutes
+https://www.youtube.com/watch?v=wCTTHhehJbU
+
+Welcome to Dev Collective
+https://developer.microsoft.com/en-us/collective/learning/courses/introduction-to-css
 
 Guard Statements
 https://thatthinginswift.com/guard-statement-swift/
+
+Introduction to Chemical Engineering Computing: Extension to Python
+http://www.chemecomp.com/Python_Intro_ChE_Comp.pdf
+
+JSON Editor Online
+https://jsoneditoronline.org
 
 ### R1Day065 Sunday, 23 December 2018
 Ranked up @codewars with a level 5 kata! on Day65 R1 #100DaysOfCode
