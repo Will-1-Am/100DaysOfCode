@@ -1,12 +1,22 @@
 # 100DaysOfCode
 
+### R1Day073 Wednesday, 09 January 2019
+Last night I learned about Xcod Live Playgrounds and Markup (I always wanted to know how those slick Playground tutorials were written.)  Check it out! WWDC 2018 Getting the Most out of Playgrounds in Xcode https://developer.apple.com/videos/play/wwdc2018/402 #100DaysOfCode #LondonAppBrewery
+
+Consider Yourself a Developer? You Should Solve the Project Euler Problems
+https://blog.usejournal.com/consider-yourself-a-developer-you-should-solve-the-project-euler-problems-ed8d13397c9c
+
 ### R1Day072 Tuesday, 08 January 2019
-Refactored code from the Project Euler challege for finding largest prime factor for a large number.
+Refactored code from the Project Euler challenge for finding largest prime factor for a large number.
+
+Xcode Markup Formatting Reference
+https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html
 
 ### R1Day071 Monday, 07 January 2019
 Completed a Project Euler challenge for the third this year in Swift of course.
 
 ### R1Day070 Saturday, 05 January 2019
+Problem 1  projecteuler.net https://projecteuler.net/problem=1
 
 ### R1Day069 Friday, 04 January 2019
 projecteuler.net
@@ -20,6 +30,9 @@ http://proxima.elzite.com/
 
 Woocommerce rest-api docs
 https://woocommerce.github.io/woocommerce-rest-api-docs/?shell#rest-api-keys
+
+Woocommerce docs
+https://github.com/woocommerce/woocommerce
 
 nodejs
 https://nodejs.org/en/download/
