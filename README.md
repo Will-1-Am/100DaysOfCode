@@ -1,7 +1,22 @@
 # 100DaysOfCode
 
+### R1Day074 Thursday, 10 January 2019
+
+Protocol
+Decodable
+https://developer.apple.com/documentation/swift/decodable
+
+Swift 4 Decodable: Beyond The Basics
+https://medium.com/swiftly-swift/swift-4-decodable-beyond-the-basics-990cc48b7375
+
+What's New in Foundation
+https://developer.apple.com/videos/play/wwdc2017/212/
+
+The best way to encode and decode JSON in Swift4
+https://benoitpasquier.com/encoding-decoding-json-swift4/
+
 ### R1Day073 Wednesday, 09 January 2019
-Last night I learned about Xcod Live Playgrounds and Markup (I always wanted to know how those slick Playground tutorials were written.)  Check it out! WWDC 2018 Getting the Most out of Playgrounds in Xcode https://developer.apple.com/videos/play/wwdc2018/402 #100DaysOfCode #LondonAppBrewery
+Last night, I learned about Xcod Live Playgrounds and Markup (I always wanted to know how those slick Playground tutorials were written.)  Check it out! WWDC 2018 Getting the Most out of Playgrounds in Xcode https://developer.apple.com/videos/play/wwdc2018/402 #100DaysOfCode #LondonAppBrewery
 
 Consider Yourself a Developer? You Should Solve the Project Euler Problems
 https://blog.usejournal.com/consider-yourself-a-developer-you-should-solve-the-project-euler-problems-ed8d13397c9c
