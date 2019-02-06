@@ -1,7 +1,221 @@
 # 100DaysOfCode
 
-### R1Day074 Thursday, 10 January 2019
+### R1Day099 Tuesday, 05 February 2019
+Online Swift playground
+http://online.swiftplayground.run/
 
+### R1Day098 Monday, 04 February 2019
+Searching for help with input data pattern checking... It should be possible with regex and trying to get my head round that at the mo.  Rabbit holes can be dark sometimes...
+
+### R1Day097 Sunday, 03 February 2019
+https://www.raywenderlich.com/5767-an-introduction-to-regular-expressions
+
+NSRegularExpression
+https://developer.apple.com/documentation/foundation/nsregularexpression
+
+Regex Pal - test your regular expressions
+https://www.regexpal.com/
+
+An Introduction to Regular Expressions
+By Tom Elliott
+https://www.regular-expressions.info/backref.html
+
+### R1Day096 Saturday, 02 February 2019
+NumberFormatter()
+https://stackoverflow.com/questions/24960621/struggling-with-nsnumberformatter-in-swift-for-currency
+
+https://developer.apple.com/documentation/foundation/numberformatter/1409880-usesgroupingseparator
+
+https://www.example-code.com/swift/json_nested_array.asp
+
+https://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do/#org66835b8
+
+### R1Day095 Friday, 01 February 2019
+Counting.
+
+### R1Day094 Thursday, 31 January 2019
+Hacker News
+https://news.ycombinator.com/news
+
+Reflection in Swift
+https://medium.com/@swiftthesorrow/reflection-in-swift-958824116b07
+
+### R1Day093 Wednesday, 30 January 2019
+https://iosdev.tools/
+https://torquemag.io/2017/08/beginners-guide-woocommerce-rest-api/
+
+connect wordpress database swift
+https://www.google.co.uk/search?client=safari&hl=en-gb&ei=Qd4sXMCiBojurgT_nLLgBg&q=connect+wordpress+database+swift&oq=connect+wordpress+database+swift&gs_l=psy-ab.3...8402.30535..31022...0.0..0.239.4189.0j25j3......0....1..gws-wiz.......0j0i71j35i39j0i67j0i20i263j0i10j0i22i30j33i22i29i30.9MXgAzy8KrM
+
+Sketch
+https://www.sketchapp.com/pricing/
+
+Charles is a web proxy (HTTP Proxy / HTTP Monitor) that runs on your own computer.
+https://www.charlesproxy.com/buy/
+
+URL Loading System
+https://developer.apple.com/documentation/foundation/url_loading_system
+
+What's New in Foundation Networking
+https://developer.apple.com/videos/play/wwdc2014/707/
+
+Inside iOS dev
+http://insideiosdev.com/
+
+Best iOS Development Podcasts for App Developers
+https://medium.com/apps-top/best-ios-development-podcasts-for-app-developers-348c39ef585
+
+Swift2Go
+https://medium.com/swift2go
+
+### R1Day092 Tuesday, 29 January 2019
+Using a shared Url session could be the problem I am experiencing when attempting to authenticate with the woocommerce site app for the JSON read.
+
+Networking in Swift the Right Way - Bob Roebling
+https://medium.com/swift2go/networking-in-swift-the-right-way-17cd34d11b7b
+
+The shared singleton session object.
+https://developer.apple.com/documentation/foundation/urlsession/1409000-shared
+
+Initializes a data object with the data from the location specified by a given URL.
+https://developer.apple.com/documentation/foundation/nsdata/1407864-init
+
+Fetching Website Data into Memory
+https://developer.apple.com/documentation/foundation/url_loading_system/fetching_website_data_into_memory
+
+WP REST API - OAuth 1.0a Server
+https://oauth1.wp-api.org/
+
+HighScalability...
+http://highscalability.com/all-time-favorites/
+
+Hello Python!
+https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1
+
+Learn Enough Command Line to Be Dangerous
+Michael Hartl
+https://www.learnenough.com/command-line-tutorial/basics#code-curl
+Learn Enough Command Line to Be Dangerous
+Michael Hartl
+https://www.learnenough.com/command-line-tutorial/basics#sec-exercises_head_tails
+
+### R1Day091 Monday, 28 January 2019
+Check if optional array is empty
+https://stackoverflow.com/questions/27588964/check-if-optional-array-is-empty
+
+“Learn the rules like a pro, so you can break them like an artist.” Pablo Picasso
+
+### R1Day090 Sunday, 27 January 2019
+
+
+### R1Day089 Saturday, 26 January 2019
+The easiest way to experience code testing in xcode is to start a new project where all of the testing features are enabled.  Once the project is created, experimentation can begin.
+
+* XCTestCase Apple Docs:
+https://developer.apple.com/documentation/xctest/xctestcase
+
+Open-source error tracking that helps developers monitor and fix crashes in real time.
+https://sentry.io/welcome/
+* Sentry Link $100 credit (only for new accounts): https://sentry.io/signup/?code=firesideswift
+
+"Swift playgrounds tips & tricks" https://www.swiftbysundell.com/posts/swift-playgrounds-tips-tricks … via @johnsundell
+
+How to benchmark Swift code execution?
+https://stackoverflow.com/questions/25006235/how-to-benchmark-swift-code-execution
+
+Performance Testing
+https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/03-testing_basics.html#//apple_ref/doc/uid/TP40014132-CH3-SW7
+
+### R1Day088 Friday, 25 January 2019
+What do the Xcode icons signify during autocompletion?
+https://stackoverflow.com/questions/38294699/what-do-the-xcode-icons-signify-during-autocompletion
+
+Check if swift array does not contain object
+https://stackoverflow.com/questions/40732901/check-if-swift-array-does-not-contain-object
+
+How to loop over arrays
+https://www.hackingwithswift.com/articles/76/how-to-loop-over-arrays
+
+swift convert Range<Int> to [Int]
+https://stackoverflow.com/questions/32103282/swift-convert-rangeint-to-int
+
+Swift Guide to Map Filter Reduce
+https://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/
+
+Finding sum of elements in Swift array
+https://stackoverflow.com/questions/24795130/finding-sum-of-elements-in-swift-array
+
+
+### R1Day087 Thursday, 24 January 2019
+Does Python have a ternary conditional operator?
+https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator
+
+Mathematical functions - Python
+file:///Library/Frameworks/Python.framework/Versions/3.7/Resources/English.lproj/Documentation/library/math.html?highlight=square%20root
+
+A cheatsheet for converting datatypes.
+http://www.convertdatatypes.com/Convert-bool-to-str-in-Python.html
+
+Geeks for geeks - a computer science portal
+https://www.geeksforgeeks.org/python-check-values-list-greater-given-value/
+
+### R1Day086 Wednesday, 23 January 2019
+More optionals and closure learning.
+
+
+### R1Day085 Tuesday, 22 January 2019
+I solved the "Rectangle into Squares" kata! Take the code initiation @ codewars.com/r/8irwRw to enlist and challenge yourself. #codewars
+
+### R1Day084 Monday, 21 January 2019
+xcode markdown - Indenting in a block of xcode markdown text entitles your text block with "Example".  Cool!
+
+### R1Day084 Sunday, 20 January 2019
+
+
+### R1Day083 Saturday, 19 January 2019
+Introduction to the Swift REPL HT iOS Dev Break PODCast
+https://developer.apple.com/swift/blog/?id=18
+
+iOS Simulator command line tricks by Ankit Kumar Gupta
+https://medium.com/@ankitkumargupta/ios-simulator-command-line-tricks-ee58054d30f4
+
+### R1Day082 Friday, 18 January 2019
+if let , if var, guard let,guard var and defer statements in swift by Abhimuralidharan
+https://medium.com/@abhimuralidharan/if-let-if-var-guard-let-and-defer-statements-in-swift-4f87fe857eb6
+
+### R1Day081 Thursday, 17 January 2019
+
+
+### R1Day080 Wednesday, 16 January 2019
+Just read Data Driven Products Now! by @mcfunley.  A great article and just as relevant today as it was in 2014!  Day 80 R1 #100DaysOfCode. Check it out here! https://mcfunley.com/data-driven-products-now
+
+### R1Day079 Tuesday, 15 January 2019
+Internet down day... Re-coding, re-coding, recoding...
+
+
+Playground: What’s new in Swift 4.2 by Ole Begemann
+https://oleb.net/blog/2018/06/whats-new-in-swift-4-2-playground/
+
+How do I load an HTTP URL with App Transport Security enabled in iOS 9?
+https://stackoverflow.com/questions/30731785/how-do-i-load-an-http-url-with-app-transport-security-enabled-in-ios-9/30732693#30732693
+
+### R1Day078 Monday, 14 January 2019
+
+### R1Day077 Sunday, 13 January 2019
+
+### R1Day076 Saturday, 12 January 2019
+Tableview section titles
+https://stackoverflow.com/questions/51397087/swift-table-view-section-titles?r=SearchResults&s=1|84.4770
+
+Issues viewing JSON parse in table view
+
+JSON parsing
+https://api.letsbuildthatapp.com/jsondecodable/courses_snake_case
+
+### R1Day075 Friday, 11 January 2019
+
+
+### R1Day074 Thursday, 10 January 2019
 Protocol
 Decodable
 https://developer.apple.com/documentation/swift/decodable
