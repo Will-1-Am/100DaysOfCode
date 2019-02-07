@@ -1,5 +1,10 @@
 # 100DaysOfCode
 
+### R1Day100 Wednesday, 06 February 2019
+if let , if var, guard let,guard var and defer statements in swift
+https://medium.com/@abhimuralidharan/if-let-if-var-guard-let-and-defer-statements-in-swift-4f87fe857eb6
+
+
 ### R1Day099 Tuesday, 05 February 2019
 Online Swift playground
 http://online.swiftplayground.run/
