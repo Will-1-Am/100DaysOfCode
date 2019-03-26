@@ -1,9 +1,351 @@
 # 100DaysOfCode
 
+### R2Day141 Tuesday, 26 March 2019
+Getting CRUDy with Realm after a long weekend.
+
+### R2Day140 Friday, 22 March 2019
+
+
+### R2Day139 Thursday, 21 March 2019
+Responded to a reply reguarding flow control in the cWRectIntoSquares kata on codewars.
+
+Build better apps faster - with the new standard in data synchronization
+https://realm.io/
+
+### R2Day138 Wednesday, 20 March 2019
+Experimenting with enums and switch.
+
+Solved multidimensional array kata on codewars - cWTwoLevelArrays
+
+### R2Day137 Tuesday, 19 March 2019
+Getting into a new rabbit hole... My app(s) run in the simulator, but suddenly have stopped working on device.  DerivedData has been deleted, but still apps still won't work on iPhone.  
+The apps did work previously and no code changes have been implemented!
+
+Working with Multiple Versions of Xcode by Geoff Hackworth
+https://medium.com/@hacknicity/working-with-multiple-versions-of-xcode-e331c01aa6bc
+
+Submitted my first StackExchange answer.
+https://stackoverflow.com/questions/52415694/ios-12-ipad-denied-launch-request-xcode/55240287#55240287
+
+### R2Day136 Monday, 18 March 2019
+Looking for ways to flatten nested arrays.
+
+### R2Day135 Saturday, 16 March 2019
+Using character sets in Swift by Jacqueline Schweiger
+https://medium.com/@jacqschweiger/using-character-sets-in-swift-945b99ba17e
+
+Swift 4 tutorial : Creating a multidimensional array
+https://www.codevscolor.com/swift-4-tutorial-creating-multidimensional-array/
+
+Your iPhone Has a Hidden List of Every Location You’ve Been
+https://onezero.medium.com/your-iphone-has-a-hidden-tracking-list-of-every-location-youve-been-c227a84bc4fc
+
+### R2Day134 Friday, 15 March 2019
+Arrays & Strings.  Coding, coding, just coding...
+
+### R2Day133 Thursday, 14 March 2019
+What is the best way to test if a CharacterSet contains a Character in Swift 4?
+https://stackoverflow.com/questions/45872368/what-is-the-best-way-to-test-if-a-characterset-contains-a-character-in-swift-4
+
+### R2Day132 Wednesday, 13 March 2019
+Calculated enumeration properties is the order of the day...  
+
+Enjoyed EP73 firesideswift
+
+### R2Day131 Tuesday, 12 March 2019
+Ranked up @codewars! Ye ha!  Come join me #codewarriors!. codewars.com/r/8irwRw
+
+### R2Day130 Monday, 11 March 2019
+
+
+### R2Day129 Sunday, 10 March 2019
+
+
+### R2Day128 Saturday, 09 March 2019
+
+
+### R2Day127 Friday, 08 March 2019
+
+
+### R2Day126 Thursday, 07 March 2019
+
+
+### R2Day125 Wednesday, 06 March 2019
+
+
+### R2Day124 Tuesday, 05 March 2019
+Listened to the More Than Just Code PODCast episode 236. More great tips found. Check out @DevWithTheHair &
+
+A Recipe for Building Grocery 2.0
+http://conradstoll.com/blog/2019/2/24/a-recipe-for-building-grocery-20
+
+https://my.wealthsimple.com/app/public/invite?jurisdiction=CA&referral_token=VmOTfL2cG-mZ5_mPXL1F&utm_campaign=referrer-user-m8w-hqxwwc0&utm_medium=client_referral&utm_source=general
+
+https://www.amazon.com/exec/obidos/ASIN/0671028472/itguytec-20
+
+NOTES FROM THE MARGINS
+https://martiancraft.com/blog/2019/02/notes-from-the-margins/
+
+### R2Day123 Monday, 04 March 2019
+Swift: How to get string from ASCII-Code
+https://stackoverflow.com/questions/24354549/swift-how-to-get-string-from-ascii-code
+
+How to add a character at a particular index in string in Swift
+https://stackoverflow.com/questions/27103454/how-to-add-a-character-at-a-particular-index-in-string-in-swift
+
+### R2Day122 Sunday, 03 March 2019
+Found a great tip @iOSDevWeekly - Issue 393 HT @daveverwer - How to quickly access Swift Playground.  Check it out here!
+https://mobile.twitter.com/twolivesleft/status/1100964316675637250?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B393
+
+### R2Day121 Saturday, 02 March 2019
+Completed another code wars kata using zip for string/array manipulation.
+
+### R2Day120 Friday, 01 March 2019
+Play musical notes in Swift Playground
+https://stackoverflow.com/questions/37102685/play-musical-notes-in-swift-playground
+
+How to play a sound using Swift?
+https://stackoverflow.com/questions/32036146/how-to-play-a-sound-using-swift
+
+Super Cool iOS Animation
+https://www.codementor.io/shaggyhafeez/super-cool-ios-animation-rphki4zg1
+
+### R2Day119 Thursday, 28 February 2019
+
+FMDB v2.5 This is an Objective-C wrapper around SQLite: http://sqlite.org/ 
+aws-amplify/aws-sdk-ios
+https://github.com/aws-amplify/aws-sdk-ios/tree/master/AWSCore/FMDB
+
+Simulations in Swift
+https://www.amazon.com/dp/0648299716/ref=cm_sw_r_cp_ep_dp_K8LxBbFCM1B71
+
+Working with very large numbers in Swift — BigInt
+https://medium.com/@BeauNouvelle/working-with-very-large-numbers-in-swift-bigint-516c0c7e0054
+
+Is there a name for raising a number to it's own value as a power
+https://math.stackexchange.com/questions/430044/is-there-a-name-for-raising-a-number-to-its-own-value-as-a-power
+
+Exponentiation
+https://en.wikipedia.org/wiki/Exponentiation
+
+### R2Day118 Wednesday, 27 February 2019
+Remote control all your Smartphone devices
+https://openstf.io/
+
+How to transpose an array of strings
+https://stackoverflow.com/questions/32920002/how-to-transpose-an-array-of-strings
+
+### R2Day117 Tuesday, 26 February 2019
+Swift Algorithm Club: Swift Linked List Data Structure by Chris Pilcher
+https://www.raywenderlich.com/947-swift-algorithm-club-swift-linked-list-data-structure
+
+### R2Day116 Monday, 25 February 2019
+Learned about http://online.swiftplayground.run/ while listening to the More Than Just Code PODCast
+
+Super Cool iOS Animation
+https://www.codementor.io/shaggyhafeez/super-cool-ios-animation-rphki4zg1
+
+Custom operators in Swift
+https://www.swiftbysundell.com/posts/custom-operators-in-swift
+
+Matching Enumeration Values with a Switch Statement
+https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html
+
+NEW - THE SWIFT COMMUNITY PODCAST
+https://www.swiftcommunitypodcast.org/
+
+### R2Day115 Sunday, 24 February 2019
+Does Swift has built-in logarithm function?
+https://stackoverflow.com/questions/35886583/does-swift-has-built-in-logarithm-function
+
+### R2Day114 Saturday, 23 February 2019
+How to get the Power of some Integer in Swift language?
+https://stackoverflow.com/questions/24196689/how-to-get-the-power-of-some-integer-in-swift-language
+
+How to check is a string or number
+https://stackoverflow.com/questions/26545166/how-to-check-is-a-string-or-number
+
+### R2Day113 Friday, 22 February 2019
+Review of types, instances and methods and properties.  
+
+Delete last character in Swift 3
+https://stackoverflow.com/questions/39609791/delete-last-character-in-swift-3
+
+### R2Day112 Thursday, 21 February 2019
+Swift Functions as Types
+https://www.andrewcbancroft.com/2016/03/18/swift-functions-as-types/
+
+Functions in Swift: Parameters and Return Types
+https://www.codingexplorer.com/functions-swift-parameters-return-types/
+
+Function Types as Return Types In Swift Explanation
+https://stackoverflow.com/questions/25310379/function-types-as-return-types-in-swift-explanation
+
+Function Types as Return Types
+https://docs.swift.org/swift-book/LanguageGuide/Functions.html
+
+Higher Order Functions in Swift
+https://medium.com/if-let-swift-programming/higher-order-functions-in-swift-d8175243d0ee
+
+Higher Order Function and its uses in Swift 4
+https://medium.com/@vishwasng/swift-higher-order-function-and-its-uses-d363eb5cc635
+
+Simple Higher Order Functions in Swift 3.0 — Map, filter, reduce and flatMap!
+https://medium.com/@mimicatcodes/simple-higher-order-functions-in-swift-3-0-map-filter-reduce-and-flatmap-984fa00b2532
+
+
+
+### R2Day113 Wednesday, 20 February 2019
+Flatten a Array of Arrays in Swift
+https://stackoverflow.com/questions/24465281/flatten-a-array-of-arrays-in-swift
+
+In Swift, how do you get the total number of elements in an array of arrays?
+https://www.quora.com/In-Swift-how-do-you-get-the-total-number-of-elements-in-an-array-of-arrays
+
+How to convert string to unicode(UTF-8) string in Swift?
+https://stackoverflow.com/questions/37087325/how-to-convert-string-to-unicodeutf-8-string-in-swift
+
+Generic Functions in Swift
+https://www.codingexplorer.com/generic-functions-in-swift/
+
+Using @autoclosure when designing Swift APIs
+https://www.swiftbysundell.com/posts/using-autoclosure-when-designing-swift-apis
+
+Convert hex-encoded String to String
+https://stackoverflow.com/questions/41485494/convert-hex-encoded-string-to-string
+
+### R2Day112 Tuesday, 19 February 2019
+MTJC PODCast - Charles proxy can help determine if your app is secure
+https://www.charlesproxy.com/
+
+Flatten a Array of Arrays in Swift
+https://stackoverflow.com/questions/24465281/flatten-a-array-of-arrays-in-swift
+
+Online Swift playground
+http://online.swiftplayground.run/
+
+### R2Day111 Monday, 18 February 2019
+Creating custom operators
+
+### R2Day110 Saturday, 16 February 2019
+
+
+### R2Day109 Friday, 15 February 2019
+Registered to use Instabug at instabug.com
+
+Overloading Custom Operators in Swift
+https://www.raywenderlich.com/650-overloading-custom-operators-in-swift
+
+### R2Day108 Thursday, 14 February 2019
+Convert Swift string to array
+https://stackoverflow.com/questions/25921204/convert-swift-string-to-array
+
+Convert populated Set<String> to [String] in swift [duplicate]
+https://stackoverflow.com/questions/32109132/convert-populated-setstring-to-string-in-swift
+
+Generic Structure: Range
+https://developer.apple.com/documentation/swift/range
+
+Why create “Implicitly Unwrapped Optionals”, since that implies you know there's a value?
+https://stackoverflow.com/questions/24006975/why-create-implicitly-unwrapped-optionals-since-that-implies-you-know-theres/24583157#24583157
+
+What does “fatal error: unexpectedly found nil while unwrapping an Optional value” mean?
+https://stackoverflow.com/questions/32170456/what-does-fatal-error-unexpectedly-found-nil-while-unwrapping-an-optional-valu#32170457
+
+unwrapped unexpected nil
+https://duckduckgo.com/?q=unwrapped+unexpected+nil&t=ffocus&ia=qa&iax=qa
+
+Generic Structure: Set
+https://developer.apple.com/documentation/swift/set
+
+The power of sets in Swift
+https://medium.com/@johnsundell/the-power-of-sets-in-swift-57be8b223da0
+
+What the web can do today
+https://whatwebcando.today/
+
+playground template modify xcode
+https://www.google.com/search?ei=OFFlXOYxyIiTvg_5yrLQBQ&q=playground+template+modify+xcode&oq=playground+template+modify+xcode&gs_l=psy-ab.3...44579.51273..53507...0.0..0.141.925.0j7......0....1..gws-wiz.......0i71.UbipfW7Mja4
+
+Changing default Xcode Playground code
+https://stackoverflow.com/questions/45030018/changing-default-xcode-playground-code
+
+Swift: Create custom Playground templates
+https://ericasadun.com/2014/06/05/swift-create-custom-playground-templates/
+
+### R2Day107 Wednesday, 13 February 2019
+Handling Optionals
+https://stackoverflow.com/questions/32170456/what-does-fatal-error-unexpectedly-found-nil-while-unwrapping-an-optional-valu#32170457
+
+How to exit GUARD outside and inside a function - Swift [duplicate]
+https://stackoverflow.com/questions/47638413/how-to-exit-guard-outside-and-inside-a-function-swift?rq=1
+
+If the Swift 'guard' statement must exit scope, what is the definition of scope?
+https://stackoverflow.com/questions/38958642/if-the-swift-guard-statement-must-exit-scope-what-is-the-definition-of-scope
+
+Unwrapping Optional Values in Swift 3.0 — Guard Let vs If Let?
+https://medium.com/@mimicatcodes/unwrapping-optional-values-in-swift-3-0-guard-let-vs-if-let-40a0b05f9e69
+
+Optimizing App Startup Time
+https://developer.apple.com/videos/play/wwdc2016/406/
+
+airtable
+https://airtable.com/product
+
+buiding a game from scratch with alexa
+https://www.youtube.com/watch?v=1cx_I0kARnU
+
+### R2Day106 Tuesday, 12 February 2019
+Trying to make a function into a throwing function to handle errors where input values may not be compatible with the data types employed within the function.
+Specifically, an alphabetical string may be passed into the function as a decimal and when it is unwrapped an error is thrown.
+
+In Swift, how do I avoid both optionals and nil object references?
+https://stackoverflow.com/questions/27622871/in-swift-how-do-i-avoid-both-optionals-and-nil-object-references
+
+Unwrapping optionals
+https://www.hackingwithswift.com/sixty/10/2/unwrapping-optionals
+
+Swift optionals explained simply
+https://hackernoon.com/swift-optionals-explained-simply-e109a4297298
+
+### R2Day105 Monday, 11 February 2019
+Throwing Functions
+
+error handling
+https://docs.swift.org/swift-book/LanguageGuide/ErrorHandling.html
+
+binary to decimal to hexidecimal conversions
+https://stackoverflow.com/questions/36966442/convert-between-decimal-binary-and-hexadecimal-in-swift
+
+Decimal to binary conversion and how to pad result
+https://stackoverflow.com/questions/26181221/how-to-convert-a-decimal-number-to-binary-in-swift
+
+### R2Day104 Sunday, 10 February 2019
+Refactored code
+
+### R2Day103 Saturday, 09 February 2019
+
+
+### R2Day102 Friday, 08 February 2019
+Real-time text formatting in UITextField
+http://vojtastavik.com/2015/03/29/real-time-formatting-in-uitextfield-swift-basics/
+
+How to create a string with format?
+https://stackoverflow.com/questions/24074479/how-to-create-a-string-with-format
+
+NSString
+https://developer.apple.com/documentation/foundation/nsstring#//apple_ref/occ/instm/NSString/initWithFormat:
+
+String Format Specifiers
+https://thatthinginswift.com/string-formatting/
+
+### R2Day101 Thursday, 07 February 2019
+More regex
+
+
 ### R1Day100 Wednesday, 06 February 2019
 if let , if var, guard let,guard var and defer statements in swift
 https://medium.com/@abhimuralidharan/if-let-if-var-guard-let-and-defer-statements-in-swift-4f87fe857eb6
-
 
 ### R1Day099 Tuesday, 05 February 2019
 Online Swift playground
